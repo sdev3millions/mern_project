@@ -1,1 +1,1 @@
-# mern_project
+# mern_sample

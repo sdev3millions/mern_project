@@ -1,0 +1,24 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app_hooked.js"
+  },
+  "author": "sadfasdfasf",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015-node6": "^0.4.0",
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.18.3",
+    "busboy": "^0.2.14",
+    "express": "^4.16.3",
+    "express-busboy": "^7.0.0",
+    "mongoose": "^5.2.10",
+    "morgan": "^1.9.0",
+    "source-map-support": "^0.5.9"
+  },
+  "devDependencies": {},
+  "description": "dsfadf"
+}
